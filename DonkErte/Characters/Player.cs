@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace DonkErte
+namespace DonkErte.Characters
 {
-    public class Player
+    public class Player : Character
     {
+
     }
 }

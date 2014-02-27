@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace DonkErte
+namespace DonkErte.Characters
 {
-    public class NonPlayer
+    public class NonPlayer : Character
     {
     }
 }
